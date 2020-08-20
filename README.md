@@ -14,15 +14,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1,323 Contributions in the year 2020
+> 🏆 1,323 Contributions in the Year 2020
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 68 Public repositories
+> 📜 68 Public Repositories
  > 
-> 🔑 2 Private repositories 
+> 🔑 2 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -47,16 +47,16 @@ Sunday       308 commits    ████████░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/Chicago
+⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
 TeX                      14 mins             █████████████████████████   100.0% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
