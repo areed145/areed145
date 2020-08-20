@@ -10,7 +10,7 @@
 <!--END_SECTION:readme-info-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
 
 **🐱 My Github Data** 
 
