@@ -14,6 +14,6 @@ I like building things where physical data meets software: sensors, weather, rad
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#190](https://github.com/areed145/coconut-barometer/pull/190) in [areed145/coconut-barometer](https://github.com/areed145/coconut-barometer)
-2. 💪 Opened PR [#190](https://github.com/areed145/coconut-barometer/pull/190) in [areed145/coconut-barometer](https://github.com/areed145/coconut-barometer)
+1. ℹ️ Labeled issue [#208](https://github.com/areed145/coconut-barometer/issues/208) in [areed145/coconut-barometer](https://github.com/areed145/coconut-barometer)
+2. ❗ Opened issue [#208](https://github.com/areed145/coconut-barometer/issues/208) in [areed145/coconut-barometer](https://github.com/areed145/coconut-barometer)
 <!--END_SECTION:activity-->
