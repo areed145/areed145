@@ -14,6 +14,6 @@ I like building things where physical data meets software: sensors, weather, rad
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#695](https://github.com/areed145/fuzer/pull/695) in [areed145/fuzer](https://github.com/areed145/fuzer)
-2. 🔒 Closed issue [#684](https://github.com/areed145/fuzer/issues/684) in [areed145/fuzer](https://github.com/areed145/fuzer)
+1. 🗣 Commented on [#823](https://github.com/areed145/fuzer/issues/823#issuecomment-6845635747) in [areed145/fuzer](https://github.com/areed145/fuzer)
+2. 🗣 Commented on [#363](https://github.com/areed145/fuzer/issues/363#issuecomment-6845597230) in [areed145/fuzer](https://github.com/areed145/fuzer)
 <!--END_SECTION:activity-->
