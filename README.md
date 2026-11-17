@@ -14,6 +14,6 @@ I like building things where physical data meets software: sensors, weather, rad
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1022](https://github.com/areed145/fuzer/issues/1022) in [areed145/fuzer](https://github.com/areed145/fuzer)
-2. 🔒 Closed issue [#1023](https://github.com/areed145/fuzer/issues/1023) in [areed145/fuzer](https://github.com/areed145/fuzer)
+1. 🗣 Commented on [#207](https://github.com/areed145/coconut-barometer/issues/207#issuecomment-6937754823) in [areed145/coconut-barometer](https://github.com/areed145/coconut-barometer)
+2. 🎉 Merged PR [#1158](https://github.com/areed145/fuzer/pull/1158) in [areed145/fuzer](https://github.com/areed145/fuzer)
 <!--END_SECTION:activity-->
